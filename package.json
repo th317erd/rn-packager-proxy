@@ -1,0 +1,30 @@
+{
+  "name": "rn-socket-proxy",
+  "version": "0.1.0",
+  "description": "A WebSocket proxy for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/th317erd/rn-packager-proxy.git"
+  },
+  "keywords": [
+    "react-native",
+    "proxy",
+    "websocket",
+    "websockets",
+    "react"
+  ],
+  "author": "Wyatt Greenway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/th317erd/rn-packager-proxy/issues"
+  },
+  "homepage": "https://github.com/th317erd/rn-packager-proxy#readme",
+  "dependencies": {
+    "http-proxy": "^1.16.2",
+    "transformer-proxy": "git+https://github.com/shelbys/transformer-proxy.git"
+  }
+}
